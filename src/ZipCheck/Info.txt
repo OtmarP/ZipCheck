@@ -1,0 +1,82 @@
+SevenZipLib
+
+c:\s\ZipCheck.exe at.comp.App.apk AndroidManifest.xml
+
+G:\software\...\Release>c:\s\ZipCheck.exe at.comp.App.apk AndroidManifest.xml
+
+ZipCheck.exe G:\software\...\Release\at.comp.App.apk AndroidManifest.xml
+
+C:\tmp\_Build\...\at.comp.App.apk AndroidManifest.xml
+
+~~~~~~~~
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="at.comp.App" android:installLocation="auto" android:versionName="0.1.0.22" android:versionCode="22">
+	<uses-sdk android:minSdkVersion="17" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.GET_TASKS" />
+	<uses-permission android:name="android.permission.NFC" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+	<application android:icon="@drawable/icon" android:label="App"></application>
+</manifest>
+~~~~~~~~
+    T       D
+  A                       "   <   V   t   ?   ?   ?   ?   ?   ?   ?       ,   >   ?   ?   ?   ?       (   J   ^   f   ?   ?   ?   ?   D   ?   ?       Z   ?   ?           N   b   v   ?   ?       >   R   ?   ?       4   ?   ?   .   H   ?   ?   .   `   ?   ?   b
+  ?
+  ?
+  l   ?   ?     i n s t a l l L o c a t i o n     v e r s i o n N a m e     v e r s i o n C o d e   
+ m i n S d k V e r s i o n     n a m e     i c o n     l a b e l     a l l o w B a c k u p     s c r e e n O r i e n t a t i o n     t h e m e     e x p o r t e d     i n i t O r d e r     a u t h o r i t i e s     a n d r o i d   * h t t p : / / s c h e m a s . a n d r o i d . c o m / a p k / r e s / a n d r o i d         p a c k a g e     p l a t f o r m B u i l d V e r s i o n C o d e     p l a t f o r m B u i l d V e r s i o n N a m e     m a n i f e s t     a t . c o m p . A p p     0 . 1 . 0 . 2 2     2 3     6 . 0 - 2 7 0 4 0 0 2     u s e s - s d k     u s e s - p e r m i s s i o n     a n d r o i d . p e r m i s s i o n . W A K E _ L O C K   ' a n d r o i d . p e r m i s s i o n . A C C E S S _ N E T W O R K _ S T A T E     a n d r o i d . p e r m i s s i o n . G E T _ T A S K S     a n d r o i d . p e r m i s s i o n . N F C   ) a n d r o i d . p e r m i s s i o n . W R I T E _ E X T E R N A L _ S T O R A G E   ( a n d r o i d . p e r m i s s i o n . R E A D _ E X T E R N A L _ S T O R A G E     a n d r o i d . p e r m i s s i o n . I N T E R N E T   ' a n d r o i d . p e r m i s s i o n . C H A N G E _ N E T W O R K _ S T A T E     a p p l i c a t i o n     A p p     m o n o . a n d r o i d . a p p . A p p l i c a t i o n     a c t i v i t y     A p p   / m d 5 9 0 5 6 c 9 7 3 a 2 0 2 a c 8 4 b b 4 3 c b e c 5 c 5 b 2 3 a 0 . A p p A c t i v i t y   
+ i n t e n t - f i l t e r     a c t i o n     a n d r o i d . i n t e n t . a c t i o n . M A I N     c a t e g o r y     a n d r o i d . i n t e n t . c a t e g o r y . L A U N C H E R     s e r v i c e   7 m d 5 5 d 1 8 a e 2 c e 7 6 5 6 c 5 b 6 d f 6 c f 0 b b 4 d c a 4 e 0 . U p d a t e N o t i f y S e r v i c e     I m a g e P i c k e r   7 m d 5 9 9 4 8 e 4 1 9 5 c 0 a b 5 6 b 1 3 7 1 5 1 4 a 6 a b 1 3 7 d d . I m a g e P i c k e r A c t i v i t y   
+ I m a g e T a k e r   6 m d 5 9 9 4 8 e 4 1 9 5 c 0 a b 5 6 b 1 3 7 1 5 1 4 a 6 a b 1 3 7 d d . I m a g e T a k e r A c t i v i t y     S o l A c t i v i t y   / m d 5 9 9 4 8 e 4 1 9 5 c 0 a b 5 6 b 1 3 7 1 5 1 4 a 6 a b 1 3 7 d d . S o l A c t i v i t y   
+ S t a r t A c t i v i t y   1 m d 5 9 9 4 8 e 4 1 9 5 c 0 a b 5 6 b 1 3 7 1 5 1 4 a 6 a b 1 3 7 d d . S t a r t A c t i v i t y     N e o R e a d e r H e l p e r A c t i v i t y   ; m d 5 b b 0 6 4 0 4 8 f 7 1 7 b b 3 e b f a d 2 8 6 a c 0 8 d a 4 f 2 . N e o R e a d e r H e l p e r A c t i v i t y     D i a l o g A c t i v i t y   2 m d 5 9 9 6 d 8 9 3 6 7 0 c 9 d a c b b 0 4 4 b a 2 a c 6 c f b 7 8 3 . D i a l o g A c t i v i t y     S o l A c t i v i t y X a m a r i n   6 m d 5 c 3 c 1 b 0 a a e e 0 c f b 0 8 5 c 9 3 0 f 8 4 0 b 3 8 f f 1 0 . S o l A c t i v i t y X a m a r i n   7 m d 5 0 5 7 5 d 4 a b 1 6 f c 3 3 6 a d e 1 8 7 9 2 5 5 c f 9 8 4 b 5 . M e d i a P i c k e r A c t i v i t y     p r o v i d e r     m o n o . M o n o R u n t i m e P r o v i d e r   6 a t . C o m p . A p p . m o n o . M o n o R u n t i m e P r o v i d e r . _ _ m o n o _ i n i t _ _   ?   <   ?                           ?                                   ????
+           ?       ????????                        ????                                    ????        ????                ????                ????                    8       ????????                        ????                    ????????        8       ????????                                                ????????        8       ????????                                                ????????        8       ????????                                                ????????        8       ????????                                                ????????        8       ????????                                                ????????        8   
+   ????????                                            
+   ????????        8       ????????                                                ????????        8       ????????                        !       !               ????????        t   
+   ????????"                       #       #           ????    ?          $       $           ????    ????    `       ????????%                       &       &           '       '           ????            $       ????????(                   8       ????????)                       *       *               ????????)       8       ????????+                       ,       ,               ????????+               ????????(               ????????%       8       ????????-                       .       .               ????????-       `       ????????%                       /       /           0       0           ????                    ????????%       `       ????????%                       1       1           2       2           ????                    ????????%       L       ????????%                       3       3           4       4               ????????%       L       ????????%                       5       5           6       6               ????????%       `       ????????%                       7       7           8       8           ????                    ????????%       `       ????????%                       ????    o           9       9           :       :               ????????%       L       ????????%                       ;       ;           <       <               ????????%       8       ????????%                       =       =               ????????%       t       ????????>                       ?       ?       
+   ????                @       @           ????    ???            ????????>               ????????"               ????????                ????
+~~~~~~~~
+
+
+Konfiguration\AppSettings.xml
+AppSettings.xml
+~~~~~~~~
+<!-- Hauptkonfiguration Test -->
+  <System Name="System" ServiceName="System" Beschreibung="System Datenversorgungsdienst" Account="LocalSystem" Startart="Auto" Type="MASTER" SystemId="1"
+             Modus="None" Kunde="ABC" TestSystem="true" />
+<Urlwap>http://+:50080/</Urlwap>
+<DBSchema ConnectionString="Data Source=localhost;          Initial Catalog=Cat;Persist Security Info=True;User ID=user;Password=123" Name="Cat">
+~~~~~~~~
+
+
+
+assets\App.config.xml
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+?<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!--
+        XYZ: http://System.XYZ.at:50080
+        ABC: http://System.ABC.at:50080
+      -->
+    <add key="UpdateUrl" value="http://System.XYZ.at:50080;http://System.ABC.at:50080"/>
+    <add key="UpdateOnDocking" value="false"/>
+    <add key="UpdateConnectTimeout" value="15"/>
+    <add key="UpdateReadTmOut" value="30" />
+    <!-- Sekunden -->
+    <add key="UpdateRetryCount" value="1"/>
+    <add key="UpdateIntervalMin" value="1"/>
+    <add key="UpdateBackgrEnabled" value="false"/>
+    <add key="UpdateCheckInterval" value="1"/>
+  </appSettings>
+</configuration>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+c:\s\ZipCheck.exe at.Comp.App.apk AndroidManifest.xml -s:at.Comp.
+
+c:\s\ZipCheck.exe at.Comp.App.apk assets\App.config.xml -s:UpdateUrl -sdl:75
+
+-eot-
