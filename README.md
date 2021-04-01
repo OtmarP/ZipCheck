@@ -1,6 +1,6 @@
 # ZipCheck
 
-Command-Line-Tool: Search in .ZIP-Files (.apk, ...) for a Text in a File
+Command-Line-Tool: Search in .ZIP-Files (.apk, ...) for a Text in a File, for Batch and Automation (Azure-DevOps Pipeline)
 
     ZipCheck v:1.0.16.1216.R
     Error: no Parameter.
