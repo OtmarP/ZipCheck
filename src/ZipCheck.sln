@@ -12,6 +12,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{6E4D7F50-DFEB-449E-B36D-C22FD6DD8E22}"
+	ProjectSection(SolutionItems) = preProject
+		..\img\Bild_20210318_100852_001.png = ..\img\Bild_20210318_100852_001.png
+		..\img\Bild_20210331_183149_001.png = ..\img\Bild_20210331_183149_001.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{43E78D04-51A2-4CDD-84D4-AE164E3A4C4C}"
+	ProjectSection(SolutionItems) = preProject
+		..\test\_AndroidAppInfo.bat = ..\test\_AndroidAppInfo.bat
+		..\test\AndroidApp.AndroidApp.apk = ..\test\AndroidApp.AndroidApp.apk
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +37,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E4D7F50-DFEB-449E-B36D-C22FD6DD8E22} = {0B354F42-965D-4A41-8983-C879B88FA0A2}
+		{43E78D04-51A2-4CDD-84D4-AE164E3A4C4C} = {0B354F42-965D-4A41-8983-C879B88FA0A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {098A9523-A717-4E10-B095-102B17987D5F}
