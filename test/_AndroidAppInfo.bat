@@ -13,8 +13,18 @@ if not exist AndroidApp.AndroidApp.apk (
 )
 
 echo *** Check...
+.\ZipCheck.exe AndroidApp.AndroidApp2.apk AndroidManifest.xml   -s:manifest  -sdl:105
+echo ERRORLEVEL=%ERRORLEVEL%
+echo.
+
 .\ZipCheck.exe AndroidApp.AndroidApp.apk AndroidManifest.xml   -s:manifest  -sdl:105
+echo ERRORLEVEL=%ERRORLEVEL%
+echo.
+
 .\ZipCheck.exe AndroidApp.AndroidApp.apk assets\app.config.xml -s:UpdateUrl -sdl:45
+echo ERRORLEVEL=%ERRORLEVEL%
+echo.
+
 goto ende
 
 :error

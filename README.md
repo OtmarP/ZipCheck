@@ -6,6 +6,22 @@ Command-Line-Tool: Search in .ZIP-Files (.apk, ...) for a Text in a File, for Ba
     Error: no Parameter.
     ZipCheck C:\dir\x.zip y1.dll y2.dll -s:ver1 -sdl:100 -se:xor2
 
+Parameter:
+
+    ZipCheck ZipFile1.zip [AndroidManifest.xml] [config.xml] [-s:ver1] [-sdl:100] [-se:xor2]
+    ZipFile1.zip .......... Zip-File
+    AndroidManifest.xml ... Search in File1 (optional)
+    config.xml ............ Search in File2 (optional)
+    -s:ver1 ............... Search for 'ver1' (optional, default: '')
+    -sdl:100 .............. Search-Display-Length 100 Characters (optional, default: 50)
+    -se:xor2 .............. Search-Encoding xor2 (optional, default: '')
+
+Return:
+
+     %ERRORLEVEL%
+     0 Search OK
+     1 Search Error
+
 Sample:
 
     .\ZipCheck.exe AndroidApp.AndroidApp.apk AndroidManifest.xml   -s:manifest  -sdl:105
